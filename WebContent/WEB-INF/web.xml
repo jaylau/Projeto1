@@ -38,7 +38,7 @@
   </context-param>
   <context-param>
     <param-name>javax.faces.DEFAULT.SUFFIX</param-name>
-    <param-value>MeuProjeto</param-value>
+    <param-value>*.xhtml</param-value>
   </context-param>
   <servlet-mapping>
     <servlet-name>meuServlet</servlet-name>
